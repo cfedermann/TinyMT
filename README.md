@@ -3,7 +3,8 @@ TinyMT
 
 Sample code showing how SMT systems function...
 
-0. Checking out the repository
+1. Checking out the repository
+------------------------------
 
 You can clone this GitHub repository using the following command:
 
@@ -12,7 +13,7 @@ You can clone this GitHub repository using the following command:
 This creates a local folder named `TinyMT` and adds all repository contents.
 
 
-1. Exercise: Word Alignment
+2. Exercise: Word Alignment
 ---------------------------
 
 Implement IBM Model 0.  For starters, try to get your code running with our toy example discussed in class on June 18, 2013.
